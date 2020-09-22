@@ -6,7 +6,6 @@
 
 	<style>
 	       #Yo{width: 250px;}
-		
 		body{
 			background-color: rgb(249, 74, 249);
 		}	
