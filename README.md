@@ -5,6 +5,7 @@
 	<title>Document</title>
 
 	<style>
+	       #Yo{width: 250px;}
 		
 		body{
 			background-color: rgb(249, 74, 249);
@@ -62,6 +63,12 @@
 
 </head>
 <body>
+	<div align="center"><img id="Yo" src="https://api.edmodo.com/users/165687911/avatar?t=1600791759&type=large&u=924rcwfgt2lmhfomum9c30yo"></div>
+	<div align="center">
+	<p>Daianna Alexsandra Rodríguez Tique</p>
+   <p>10-B</p>
+   <p>I.E La Milagrosa</p>
+   <p>Proyecto Final Tecnología</p></div>
 	<h1>Impacto de la tecnología en la pandemia</h1>
 
 <h2>Información sobre el Covid-19</h2>
